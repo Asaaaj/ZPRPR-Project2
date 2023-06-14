@@ -1,0 +1,63 @@
+$$$
+15
+Deep learning
+Jana Oriesokova#Jan Oriesok#Jozko Mrkvicka
+UP
+1120
+20200405
+$$$
+30
+Cloud computing
+Jana Mrkvickova#Jozko Mrkvicka
+UD
+1030
+20200405
+$$$
+303015
+Metody inspirovane prirodou
+Jan Oriesok#Jozko Mrkvicka
+UP
+1520
+20200405
+$$$
+15151515
+Spracovanie obrazu
+Jozko Mrkvicka
+UP
+1140
+20200405
+$$$
+30303030
+Spracovanie obrazu
+Jana Oriesokova#Jan Pomaranc Oriesok#Jozko Mrkvicka
+PP
+1200
+20200405
+$$$
+30303015
+Metody inspirovane prirodou (2)
+Jana Oriesokova#Jan Pomaranc Oriesok#Jozko Mrkvicka
+PD
+1520
+20200405
+$$$
+30303015
+Metody inspirovane prirodou (3)
+Jana Oriesokova#Peter Novak Kovac#Peter Petrovsky
+PD
+1520
+20200405
+$$$
+30303015
+Metody inspirovane prirodou (4)
+Martin Pavol#Adam Adamov
+PD
+1520
+20200405
+$$$
+30303015
+Metody inspirovane prirodou (5)
+Peter Petrovsky#Peter Novak Kovac#Adam Adamov
+PD
+1520
+20200405
